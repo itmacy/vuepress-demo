@@ -172,7 +172,7 @@ cd -
 > `npm run deploy`
 
 - 访问
-> `https://USERNAME.github.io/`，例如访问我的：`https://itmacy.github.io/`。
+> `https://USERNAME.github.io/`，例如访问我github首页的：https://itmacy.github.io/
 
 
   
