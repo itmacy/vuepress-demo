@@ -13,10 +13,10 @@ module.exports = {
       {text: 'github', link: 'https://github.com/itmacy'},
       {text: '博客园', link: 'https://www.cnblogs.com/itmacy/'},
       {text: '简书', link: 'https://www.jianshu.com/u/88c9ba7ac8bd' },
-      {text: '关于', link: '/about.md' },
+      {text: '关于', link: '/page/' },
 
     ],
     sidebar: 'auto', // 侧边栏配置
-    sidebarDepth: 2, // 侧边栏显示2级
+    sidebarDepth: 3, // 侧边栏显示2级
   }
 };
