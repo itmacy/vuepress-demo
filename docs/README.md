@@ -157,14 +157,14 @@ cd -
 > windows下：
 ``` 
  "scripts": {
-	"build": "vuepress build docs"
+	"deploy": "start deploy.sh"
   }
 ```
 
 > linux或mac下（未试过）
 ``` 
  "scripts": {
-	"build": "vuepress bash docs"
+	"deploy": "bash deploy.sh"
   }
 ```
 
